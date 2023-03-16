@@ -1,0 +1,14 @@
+html {
+    font-family: 'Cinzel', serif;
+}
+
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.plate {
+    height: auto;
+    width: 400px; 
+}
+
